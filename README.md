@@ -6,6 +6,10 @@ The purpose of this project is to train a differentiable system capable of turni
 
 Specifically, we believe that code2pix can be used to create a GAN to replace pix2code. This is a  direction for future research that is within reach now having completed this project.
 
+## Contributions
+
+All code presented is written by myself. However, the following members contributed to the pre-production code and project: Samyak Parajuli, Luke Dai, Ajay Raj, Aismit Das, Dennis Yang, and Japjot Singh. 
+
 ## Requirements
 
 All requirements are in `requirements.txt`.
