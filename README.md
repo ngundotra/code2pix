@@ -1,6 +1,6 @@
 # Code2Pix: Generating Graphical User Interfaces from Code 
 
-See the original blog post [here](https://medium.com/@ngundotra). This is original research for [Uizard](https:/uizard.io) in collaboration with UC Berkeley's Statistics Undergraduate Student Association [(SUSA)](https://github.com/SUSA-org).
+See the original blog post [here](https://medium.com/@ngundotra/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b). This is original research for [Uizard](https:/uizard.io) in collaboration with UC Berkeley's Statistics Undergraduate Student Association [(SUSA)](https://github.com/SUSA-org).
 
 The purpose of this project is to train a differentiable system capable of turning textual description of user interfaces into images of the actual thing. Yes, standard compilers already do this, yes they also go from "code" to "pix". However, this is a useful project because our system, unlike standard compilers, can be used to train other deep learning models. 
 
