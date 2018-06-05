@@ -12,7 +12,7 @@ All code presented is written by myself. However, the following members contribu
 
 ## Requirements
 
-All requirements are in `requirements.txt`.
+All that's needed to run these files is `keras` (2.1.4) and `tensorflow` (1.4.1).
 
 ## Data
 
